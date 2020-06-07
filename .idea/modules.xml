@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Riyadh-tour-guide-project.iml" filepath="$PROJECT_DIR$/Riyadh-tour-guide-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Riyadh-tour-guide-project-app.iml" filepath="$PROJECT_DIR$/app/Riyadh-tour-guide-project-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p5-tour-guide.iml" filepath="$PROJECT_DIR$/p5-tour-guide.iml" />
     </modules>
   </component>
 </project>
